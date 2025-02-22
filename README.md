@@ -3,7 +3,7 @@
 <p>API para un sistema básico de recursos humanos</p>
 
 <h2>Funcionalidades del proyecto</h2>
-<p>Recibir y procesar consultas básicas de CRUD del sistema de recursos humanos para ser enviadas a la <a href = "https://github.com/Fabri0607/RH-APP.git">interfaz Front-End</a>desarrollada con React<p>
+<p>Recibir y procesar consultas básicas de CRUD del sistema de recursos humanos para ser enviadas a la <a href = "https://github.com/Fabri0607/RH-APP.git">interfaz Front-End</a> desarrollada con React<p>
 
 <h2>Entorno de Desarrollo Java:</h2>
 <li>Java JDK: versión 17 o superior</li>
