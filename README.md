@@ -1,12 +1,19 @@
-<h1>RH-API</h1>
-<h2>Descripción del proyecto</h2>
-<p>API para un sistema básico de recursos humanos</p>
+# RH-API
 
-<h2>Funcionalidades del proyecto</h2>
-<p>Recibir y procesar consultas básicas de CRUD del sistema de recursos humanos para ser enviadas a la <a href = "https://github.com/Fabri0607/RH-APP.git">interfaz Front-End</a> desarrollada con React<p>
+## Descripción del proyecto
+API para un sistema básico de recursos humanos, desarrollada con Spring Boot. Esta API gestiona operaciones CRUD y se comunica con la interfaz Front-End desarrollada en React.
 
-<h2>Entorno de Desarrollo Java:</h2>
-<li>Java JDK: versión 17 o superior</li>
-<li>Maven: versión 4 o superior</li>
-<li>Spring: versión 3.2.3 - Spring Initializr</li>
-<li>MySQL</li>
+## Funcionalidades del proyecto
+- Recibir y procesar consultas CRUD desde el front-end.
+- Realizar operaciones básicas de gestión de recursos humanos.
+- Interactuar con una base de datos MySQL para almacenar y recuperar información.
+
+Puedes acceder al código del Front-End aquí: [Interfaz Front-End RH-APP](https://github.com/Fabri0607/RH-APP.git).
+
+## Entorno de desarrollo
+
+### Requisitos para el Backend (Spring Boot)
+- **Java JDK**: versión 17 o superior.
+- **Maven**: versión 4 o superior.
+- **Spring**: versión 3.2.3 (configurado con Spring Initializr).
+- **MySQL**: para la base de datos.
